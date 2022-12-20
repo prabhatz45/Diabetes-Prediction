@@ -8,3 +8,5 @@ From the data set in the (.csv) File We can find several variables, some of them
 (several medical predictor variables) and only one target dependent variable (Outcome).
 
 Credit: Kaggle
+
+In the another method I have used one code for predictive system. We can make predictive systems like this using the same method, this mehthod can be used as a blueprint for making predictive systems.Predictive system if the way by which we can predict the result of the model which we have trained.
